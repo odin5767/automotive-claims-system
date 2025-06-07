@@ -1,7 +1,7 @@
-`import AutoClaimsSystem from './components/AutoClaimsSystem'
+import AutoClaimsSystem from './components/AutoClaimsSystem'
 
 function App() {
   return <AutoClaimsSystem />
 }
 
-export default App`
+export default App
